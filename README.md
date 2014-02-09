@@ -1,5 +1,7 @@
 # Icons
 
+#### [Check icon previews](#all-icons)
+
 List of icon previews are added to this readme using [update-readme.py](update-readme.py).
 
 Setup pre-commit hook to automatically update readme after each commit. Run in root of this project:

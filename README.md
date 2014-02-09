@@ -14,6 +14,10 @@ You need to add 3 files to assets folder
 * **icon.png** - 1200x1200 sized icon in .png format
 * **icon_preview.png** - 100x100 sized icon in .png format
 
+Save .svg using these settings
+
+![settings](svg-settings.png)
+
 ## All icons
 
 ##### Magnifying Glass

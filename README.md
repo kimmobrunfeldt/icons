@@ -12,7 +12,7 @@ You need to add 3 files to assets folder
 
 * **icon.svg** - original vector icon
 * **icon.png** - 1200x1200 sized icon in .png format
-* **icon_preview.png** - 200x200 sized icon in .png format
+* **icon_preview.png** - 100x100 sized icon in .png format
 
 ## All icons
 

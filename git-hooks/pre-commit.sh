@@ -2,6 +2,7 @@
 
 git stash -q --keep-index
 
+echo "Run pre-commit hook"
 python update-readme.py
 RETVAL=$?
 
@@ -11,3 +12,5 @@ then
 fi
 
 git stash pop -q
+
+echo "Pre-commit hook done!\n"

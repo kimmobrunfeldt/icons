@@ -16,5 +16,6 @@ You need to add 3 files to assets folder
 
 ## All icons
 
-##### magnifying_glass_preview.png
+##### Magnifying Glass
 ![magnifying_glass_preview.png](assets/magnifying_glass_preview.png)
+

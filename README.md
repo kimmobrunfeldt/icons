@@ -2,10 +2,9 @@
 
 List of icon previews are added to this readme using `update-readme.py`.
 
-Setup pre-commit hook to automatically update readme after each commit:
+Setup pre-commit hook to automatically update readme after each commit. Run in root of this project:
 
-    cp git-hooks/pre-commit.sh .git/hooks/pre-commit.sh
-    chmod +x .git/hooks/pre-commit.sh
+    sh git-hooks/install-hooks.sh
 
 ## Adding new icons
 

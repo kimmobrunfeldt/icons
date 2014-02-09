@@ -19,7 +19,8 @@ def main():
     for filepath in glob.glob('assets/*_preview.png'):
         _, filename = os.path.split(filepath)
 
-        tail += '##### %s\n' % filename
+        pretty_name = ' '.join(filename.split('_')[:-1]).title()
+        tail += '##### %s\n' % pretty_name
         tail += '![%s](assets/%s)\n\n' % (filename, filename)
 
     f = open('README.md', 'w')

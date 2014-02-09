@@ -26,6 +26,8 @@ def main():
     f.write('## All icons'.join([head, tail]))
     f.close()
 
+    print('Readme updated')
+
 
 if __name__ == '__main__':
     main()
